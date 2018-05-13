@@ -1,0 +1,2 @@
+﻿Clock Icon (/Icons/tray.ico) by Aha-Soft / http://www.aha-soft.com/
+Clock Icon (/Icons/clock.png) by Icojam / http://www.icojam.com/
