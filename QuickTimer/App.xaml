@@ -7,7 +7,7 @@
     <Application.Resources>
         <tb:TaskbarIcon x:Key="TrayIconResource"
                          IconSource="/Icons/tray.ico"
-                         ToolTipText="QuickTimer"
+                         ToolTipText="QuickTimers"
                         Visibility="Visible"/>
     </Application.Resources>
 </Application>

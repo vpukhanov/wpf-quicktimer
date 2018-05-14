@@ -7,11 +7,11 @@ using System.Windows;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("QuickTimer")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("QuickTimers")]
+[assembly: AssemblyDescription("Simple multi-timer application, created with .NET and Windows Presentation Foundation.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("QuickTimer")]
+[assembly: AssemblyCompany("Vyacheslav Pukhanov")]
+[assembly: AssemblyProduct("QuickTimers")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

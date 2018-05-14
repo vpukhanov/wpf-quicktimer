@@ -33,7 +33,7 @@ namespace QuickTimer
 
         private static string quickTimerFolder = System.IO.Path.Combine(
             Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData),
-            "QuickTimer"
+            "QuickTimers"
             );
         private static string timersFilePath = System.IO.Path.Combine(quickTimerFolder, "Timers.csv");
 
@@ -137,7 +137,7 @@ namespace QuickTimer
 
         private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
         {
-            var result = MessageBox.Show("Closing the app stops and resets the timers, you can minimize it instead.\nAre you sure you want to close QuickTimer?", "Exit QuickTimer?", MessageBoxButton.YesNo, MessageBoxImage.Question);
+            var result = MessageBox.Show("Closing the app stops and resets the timers, you can minimize it instead.\nAre you sure you want to close QuickTimers?", "Exit QuickTimers?", MessageBoxButton.YesNo, MessageBoxImage.Question);
             if (result == MessageBoxResult.Yes)
             {
                 StoreTimers();

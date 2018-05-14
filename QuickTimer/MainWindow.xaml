@@ -7,7 +7,7 @@
         xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
         xmlns:converters="clr-namespace:QuickTimer.Converters"
         mc:Ignorable="d"
-        Title="QuickTimer" Height="240" Width="400" StateChanged="Window_StateChanged" Closing="Window_Closing">
+        Title="QuickTimers" Height="240" Width="400" StateChanged="Window_StateChanged" Closing="Window_Closing">
     <Window.Resources>
         <converters:BoolToStringConverter x:Key="BooleanToStartStopConverter" FalseValue="Start" TrueValue="Stop" />
     </Window.Resources>
