@@ -1,4 +1,4 @@
-# QuickTimer
+# QuickTimers
 Simple multi-timer application, created with .NET and Windows Presentation Foundation.
 
 <p align="center">
