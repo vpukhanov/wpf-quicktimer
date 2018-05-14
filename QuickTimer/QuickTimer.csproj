@@ -106,7 +106,6 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="attribution.xaml.cs" />
     <Compile Include="Converters\BoolToStringConverter.cs" />
     <Compile Include="InputDialog.xaml.cs">
       <DependentUpon>InputDialog.xaml</DependentUpon>
@@ -149,11 +148,6 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Icons\clock.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="attribution.txt">
-      <Generator>MSBuild:Compile</Generator>
-    </Resource>
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
