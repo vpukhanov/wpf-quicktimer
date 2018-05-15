@@ -75,7 +75,7 @@ namespace QuickTimer
             ShowAndFocusWindow();
         }
 
-        private void ShowAndFocusWindow()
+        public void ShowAndFocusWindow()
         {
             Show();
             WindowState = WindowState.Normal;
