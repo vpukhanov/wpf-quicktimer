@@ -1,0 +1,2 @@
+Clock Icon (/Icons/clock.png) by Icojam / http://www.icojam.com/
+Clock Icon (Used in Packaging Project and /Icons/tray.ico) by Adriano Maringolo / https://www.iconfinder.com/adriano.gomes
