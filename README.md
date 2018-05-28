@@ -1,4 +1,6 @@
 # QuickTimers
+
+<a href='//www.microsoft.com/store/apps/9NM28M8X2GT5?ocid=badge'><img src='https://assets.windowsphone.com/85864462-9c82-451e-9355-a3d5f874397a/English_get-it-from-MS_InvariantCulture_Default.png' alt='English badge' width="200"/></a><br>
 Simple multi-timer application, created with .NET and Windows Presentation Foundation.
 
 <p align="center">
